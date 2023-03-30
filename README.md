@@ -34,3 +34,4 @@ Instructions and examples for use. Screenshots may be included.
 
 
 ## License
+[MIT License](LICENSE)
